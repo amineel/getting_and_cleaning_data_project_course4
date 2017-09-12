@@ -1,19 +1,19 @@
-==================================================================
+==============================================
 Coursera Project - Getting and Cleaning Data
-==================================================================
+==============================================
 
-==================================================================
+=============================================
 ## Author
 Amine EL AJI <amine.elaji@gmail.com>
-==================================================================
+=============================================
 
 
 ##The repository includes the following files:
 =========================================
-*README.txt
-*CodeBook.md: explaining different variables and code used
-*dataset.txt: resulting dataset from the analysis
-*run_analysis.R: the script to clean the data
+* README.txt
+* CodeBook.md: explaining different variables and code used
+* dataset.txt: resulting dataset from the analysis
+* run_analysis.R: the script to clean the data
 
 ##Instructions:
 =========================================
