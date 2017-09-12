@@ -1,6 +1,6 @@
-==============================================
-Coursera Project - Getting and Cleaning Data
-==============================================
+==================
+Coursera Project
+===================
 
 =============================================
 ## Author
@@ -19,9 +19,9 @@ Amine EL AJI <amine.elaji@gmail.com>
 =========================================
 To run the script please follow these steps:
 
-*Download origine dataset to the working directory from the web site: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-*Clone the project to your working directory
-*Execute the script
+* Download origine dataset to the working directory from the web site: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Clone the project to your working directory
+* Execute the script
 
 ## Script Execution steps
 =========================================
